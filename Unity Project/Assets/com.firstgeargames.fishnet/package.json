@@ -1,0 +1,26 @@
+{
+  "name": "com.firstgeargames.fishnet",
+  "displayName": "Fish Networking",
+  "version": "1.5.6",
+  "unity": "2020.3",
+  "author": {
+    "name": "First Gear Games",
+    "email": "no@thank.you",
+    "url": "https://github.com/FirstGearGames"
+  },
+  "documentationUrl": "https://fish-networking.gitbook.io/docs/",
+  "keywords": [],
+  "description": "A feature-rich Unity networking solution aimed towards reliability, ease of use, efficiency, and flexibility. Developed by a professional game designer, supported by the community.",
+  "license": "LICENSE.md",
+  "samples": 
+	[{
+		"displayName": "Example",
+		"description": "Talk about the examples here!",
+		"path": "Samples~/Example"
+	 },
+	 {
+		"displayName": "Fishy Steamworks",
+		"description": "A Steam Networking Socket transport capable of Peer to Peer and Client Server networking over Steam API's Steam Netwokring Socket interface.",
+		"path": "Plugins~/FishySteamworks"
+	 }]
+}

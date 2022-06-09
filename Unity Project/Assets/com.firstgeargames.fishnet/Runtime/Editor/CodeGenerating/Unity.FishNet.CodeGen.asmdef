@@ -1,0 +1,20 @@
+{
+    "name": "Unity.FishNet.CodeGen",
+    "rootNamespace": "Unity.FIshNet.CodeGen",
+    "references": [
+        "GUID:7c88a4a7926ee5145ad2dfa06f454c67",
+        "GUID:858075aced700584abc8848c621e4265",
+        "GUID:23311a592bb0c5640b641143d87bf5b7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
